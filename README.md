@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kundan766.github.io/full-stack-developer-portfolio/](https://kundan766.github.io/full-stack-developer-portfolio/)
 
-- 📝 I regularly write articles on [https://www.tutcpp.com/](https://www.tutcpp.com/)
+- 📝 
 
 - 📫 How to reach me **kundanc943@gmail.com**
 
